@@ -38,13 +38,13 @@ This project implements a face recognition system using OpenCV and Face Recognit
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/face-locking-door
+    git clone https://github.com/Ay0ubN0uri/face-locking-door.git
     cd face-locking-door
     ```
 
 2. Install the required Python libraries:
     ```sh
-    pip install opencv-python face_recognition pyttsx3 pyserial
+     pip install -r requirements.txt
     ```
 
 3. Set up the virtual serial ports using com0com or similar software.
