@@ -33,6 +33,12 @@ This project implements a face recognition system using OpenCV and Face Recognit
 ![Logo](images/simulide_circuit.png)
 ![Logo](images/circuitdiagram.JPG)
 
+Door Opened
+![Logo](images/door%20opened.png)
+
+Unkonwn Person Detected
+![Logo](images/unkown%20person.png)
+
 
 ## Installation
 
